@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio3_Pokemon</string>
+    <string name="BASE_URL">\"https://pokeapi.co/api/\"</string>
+    <string name="Experiencia">Experiencia Base:</string>
+    <string name="altura">Altura:</string>
+    <string name="Peso">Peso:</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="pokemonLista">Lista de Pokemones</string>
+    <string name="orden">Orden:</string>
+    <string name="id">ID:</string>
+    <string name="Error">Error en la conexión</string>
+
+</resources>
